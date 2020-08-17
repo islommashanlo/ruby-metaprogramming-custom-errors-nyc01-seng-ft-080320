@@ -19,6 +19,3 @@ puts beyonce.name
 
 class PartnerError < StandardError
 end
-
-
-
